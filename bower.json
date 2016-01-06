@@ -1,0 +1,29 @@
+{
+  "name": "react-channel-selector",
+  "version": "0.0.0",
+  "description": "Channel Selector",
+  "main": "dist/react-channel-selector.min.js",
+  "homepage": "https://github.com/beclamide/react-channel-selector",
+  "authors": [
+    "John Bower"
+  ],
+  "moduleType": [
+    "amd",
+    "globals",
+    "node"
+  ],
+  "keywords": [
+    "react",
+    "react-component"
+  ],
+  "license": "MIT",
+  "ignore": [
+    ".editorconfig",
+    ".gitignore",
+    "package.json",
+    "src",
+    "node_modules",
+    "example",
+    "test"
+  ]
+}
